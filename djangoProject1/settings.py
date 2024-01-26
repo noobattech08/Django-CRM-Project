@@ -43,7 +43,7 @@ ROOT_URLCONF = 'djangoProject1.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [r'C:\Users\Bishal\PycharmProjects\DjangoProjectCRM\pythonProject\djangoProject1\website\templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
